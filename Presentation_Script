@@ -1,0 +1,58 @@
+Final Presentation Script (For Power BI Video – 5 Minutes)
+
+1. 👋 Introduction (0:00–0:30)
+“Hello, I’m [Your Name], and I’m excited to present key insights from our online retail data, answering four key business questions asked by the CEO and CMO.
+
+Before diving into the dashboards, I’d like to quickly walk through the data preparation process I followed to ensure accurate and actionable insights.”
+
+2. 🧹 Data Cleaning Summary (0:30–1:00)
+“Upon loading the dataset into Power BI, I applied two critical data checks:
+
+First, I filtered out any records where the quantity was below 1, to exclude returns or data entry errors.
+
+Second, I removed rows where the unit price was negative, as these represented incorrect entries.
+
+This ensured that the analysis reflects only genuine, valid transactions — providing a reliable base for decision-making.”
+
+3. 📊 Q1 – CEO: Revenue Trends in 2011 (1:00–1:30)
+“On the first tab, I’ve created a monthly time series chart for revenue in 2011.
+
+This chart highlights seasonal patterns — for instance, we see revenue spikes around November and December, likely due to holiday shopping surges, and lower revenue in early months like February.
+
+This information can help forecast future seasonal demand, guide inventory stocking, and shape promotional strategies at the right times.”
+
+4. 🌍 Q2 – CMO: Top 10 Countries by Revenue & Quantity (1:30–2:00)
+“On the second tab, we focus on the top 10 countries (excluding the UK) that generated the highest revenue.
+
+I’ve created a combined bar chart showing both revenue and quantity sold side by side.
+Notably, countries like Netherlands, Germany, and France show strong performance both in volume and revenue.
+
+These insights can help the CMO prioritize top-performing international markets and plan regional marketing campaigns accordingly.”
+
+5. 👥 Q3 – CMO: Top 10 Customers by Revenue (2:00–2:30)
+“On the third tab, I’ve built a descending bar chart that highlights the top 10 revenue-generating customers, starting with the highest at the left.
+
+This visual quickly surfaces our most valuable customers, allowing the CMO to target them with loyalty programs, exclusive deals, or personalized offers to maintain and grow their business with us.”
+
+6. 🌐 Q4 – CEO: Product Demand Across Countries (2:30–3:00)
+“Finally, on the fourth tab, we look at global product demand, excluding the United Kingdom.
+
+To fulfill the CEO’s request for a single-glance view without scrolling or hovering, I used a sorted bar chart showing total quantity sold by country.
+
+Countries like Netherlands, EIRE (Ireland), and Germany stand out with consistently high demand — making them prime candidates for expansion strategies.”
+
+7. 🧠 Strategic Summary (3:00–4:30)
+“To summarize:
+
+The 2011 monthly revenue trend reveals seasonal behaviors we can leverage in planning.
+
+Our top 10 international markets are clear candidates for campaign investments.
+
+We’ve identified our top 10 high-value customers, crucial for retention efforts.
+
+Lastly, the demand heatmap by country helps prioritize global expansion outside the UK.
+
+All visuals are clean, easy to interpret, and built on valid data after thorough preprocessing.”
+
+8. 🙏 Closing (4:30–5:00)
+“Thank you for the opportunity to analyze this data. I’m confident that these insights can help guide both marketing and strategic growth decisions.
